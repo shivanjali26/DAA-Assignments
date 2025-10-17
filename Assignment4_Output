@@ -1,0 +1,23 @@
+Enter number of intersections and roads: 6 6
+Enter roads (u v travel_time):
+0 1 2
+1 2 2
+2 4 10
+2 3 1
+3 5 5
+4 5 1
+Enter ambulance starting intersection: 0
+Enter number of hospitals: 2
+Enter hospital intersections:
+4 5
+
+Before traffic update:
+Nearest hospital: 5 (Travel time: 10 minutes)
+Optimal path: 0 1 2 3 5 
+
+Enter road to update travel time (u v new_time), or -1 to skip: 2 4 1
+
+After traffic update:
+Nearest hospital: 4 (Travel time: 5 minutes)
+Optimal path: 0 1 2 4
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> 
