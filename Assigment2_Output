@@ -1,0 +1,31 @@
+Enter total number of movies: 3
+
+Movie 1 details:
+Title: Interstellar
+IMDB Rating: 8.6
+Release Year: 2014
+Watch Time (in hours): 9500
+
+Movie 2 details:
+Title: Inception
+IMDB Rating: 8.8
+Release Year: 2010
+Watch Time (in hours): 12000
+
+Movie 3 details:
+Title: Tenet
+IMDB Rating: 7.5
+Release Year: 2020
+Watch Time (in hours): 8000
+
+Choose sorting parameter:
+1 - IMDB Rating
+2 - Release Year
+3 - Watch Time
+Your choice: 1
+
+--- Sorted Movies ---
+Tenet | Rating: 7.5 | Year: 2020 | Watch Time: 8000 hrs
+Interstellar | Rating: 8.6 | Year: 2014 | Watch Time: 9500 hrs
+Inception | Rating: 8.8 | Year: 2010 | Watch Time: 12000 hrs
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> 
