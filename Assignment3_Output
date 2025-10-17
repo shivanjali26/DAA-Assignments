@@ -1,0 +1,33 @@
+Enter boat maximum weight capacity (kg): 50
+Enter number of relief items: 4
+
+Enter details for item 1:
+Weight (kg): 10
+Utility value: 60
+Divisible? (1 for yes, 0 for no): 1
+
+Enter details for item 2:
+Weight (kg): 20
+Utility value: 100
+Divisible? (1 for yes, 0 for no): 0
+
+Enter details for item 3:
+Weight (kg): 30
+Utility value: 120
+Divisible? (1 for yes, 0 for no): 1
+
+Enter details for item 4:
+Weight (kg): 5
+Utility value: 50
+Divisible? (1 for yes, 0 for no): 0
+
+Items sorted by utility/weight ratio (descending):
+Weight  Utility Divisible       Utility/Weight
+5.00    50.00   No              10.00
+10.00   60.00   Yes             6.00
+20.00   100.00  No              5.00
+30.00   120.00  Yes             4.00
+
+
+Maximum utility value the boat can carry: 270.00
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> 
