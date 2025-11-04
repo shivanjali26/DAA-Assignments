@@ -1,0 +1,22 @@
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> cd "c:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA\" ; if ($?) { g++ Assignment6.cpp -o Assignment6 } ; if ($?) { ./Assignment6.exe }
+
+Enter the number of items: 4
+Enter the truck capacity: 7
+
+Enter the weight and utility of each item:
+Item 1 - Weight: 1
+Item 1 - Utility: 1
+Item 2 - Weight: 3
+Item 2 - Utility: 4
+Item 3 - Weight: 4
+Item 3 - Utility: 5
+Item 4 - Weight: 5
+Item 4 - Utility: 7
+
+ RESULT 
+Maximum utility that can be carried: 9
+
+Items chosen:
+Item 3  Weight: 4, Utility: 5
+Item 2  Weight: 3, Utility: 4
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> 
