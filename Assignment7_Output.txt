@@ -1,0 +1,19 @@
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> cd "c:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA\" ; if ($?) { g++ Assignment7.cpp -o Assignment7 } ; if ($?) { ./Assignment7.exe }
+Greedy Coloring -> 3 slots
+Welsh - Powell Coloring -> 3 slots
+DSATUR Coloring -> 3 slots
+
+ Exam Room Allocation
+
+Slot 0:
+  Room 1 -> Course 1 (50 students)
+  Room 2 -> Course 4 (90 students)
+
+Slot 1:
+  Room 1 -> Course 0 (80 students)
+  Room 2 -> Course 3 (60 students)
+  Room 2 -> Course 5 (30 students)
+
+Slot 2:
+  Room 1 -> Course 2 (40 students)
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> 
