@@ -1,0 +1,11 @@
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> cd "c:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA\" ; if ($?) { g++ Assignment8.cpp -o Assignment8 } ; if ($?) { ./Assignment8.exe }
+Enter number of cities: 4
+Enter cost matrix (use large number for no direct route):
+0 10 15 20
+10 0 35 25
+15 35 0 30
+20 25 30 0
+
+Optimal Delivery Route (SwiftShip): 0 1 3 2 0 
+Minimum Total Delivery Cost: 80
+PS C:\Users\Shivanjali\OneDrive\Desktop\THIRD YEAR\DAA> 
