@@ -78,10 +78,10 @@ private:
     bool compare(Movie &a, Movie &b, int choice)
     {
         if (choice == 1)
-            return a.imdbRating < b.imdbRating; // Sort by Rating descending
+            return a.imdbRating < b.imdbRating; 
         if (choice == 2)
-            return a.releaseYear < b.releaseYear; // Sort by Release Year descending
-        return a.watchTime < b.watchTime;         // Sort by Watch Time descending
+            return a.releaseYear < b.releaseYear; 
+        return a.watchTime < b.watchTime;         
     }
 };
 
@@ -129,5 +129,6 @@ int main()
 
     return 0;
 }
+
 
 
